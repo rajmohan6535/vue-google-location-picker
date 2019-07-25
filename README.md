@@ -1,4 +1,5 @@
 # vue-google-location-picker
+<<<<<<< HEAD
 
 > Simple google map autocomplete api used with vue js for pic the location 
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+The google auto completion api for vue js
+>>>>>>> 3e7908c187ae95c4e1997b610269e0b25900104a
